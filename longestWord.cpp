@@ -46,8 +46,8 @@ int main(){
 	getline(cin,texto);	
 	cout << endl;		
 	cout << texto << endl;	
-    n = countWords(texto);
-    cout << n << " palavras" << endl;
+        n = countWords(texto);
+        cout << n << " palavras" << endl;
 	
 	maior = biggerWord(texto,n);
 			
