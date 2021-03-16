@@ -38,12 +38,7 @@ int countWords(const string);
 string biggerWord(const string line, const int n);
 
 int main(){
-	// nr
-	// indice inicial
-	// indice final
-	// tamanho da string
-	
-	//string texto("splitString divide a string");
+
 	int n;		
 	string texto, maior;
 	
