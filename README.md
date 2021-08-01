@@ -1,4 +1,5 @@
 # Exercícios de programação C++
+- <a href="distancia2ptos.cpp">distancia2ptos.cpp</a> - calcula a distância entre dois pontos.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/sorting/selection.cpp">sorting/selection.cpp</a> - implementa a ordenção por seleção.
 - =====
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/longestWord.cpp">longestWord.cpp</a> - retorna a maior palavra da string.
