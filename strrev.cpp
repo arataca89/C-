@@ -1,6 +1,7 @@
 // strrev.cpp
-// arataca89@gmail.com
 // 20210317
+// arataca89@gmail.com
+// Aulas de programação C++
 
 // Implementação da função strrev()
 
