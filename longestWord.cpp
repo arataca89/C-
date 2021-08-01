@@ -1,7 +1,7 @@
 /*
 longestWord.cpp
-
 arataca89@gmail.com
+Aulas de programação C++
 
 Coderbyte exercise: 
 
