@@ -1,4 +1,6 @@
 // selectionSort() implementa o algoritmo de ordenação por seleção.
+// arataca89@gmail.com
+// Aulas de programação C++
 
 #include <iostream>
 using std::cout;
