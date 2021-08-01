@@ -1,4 +1,5 @@
 # Exercícios de programação C++
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/isInside.cpp">isInside.cpp</a> - verifica se um número pertence a um intervalo (se ele está entre outros dois números).
 - <a href="distancia2ptos.cpp">distancia2ptos.cpp</a> - calcula a distância entre dois pontos.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/sorting/selection.cpp">sorting/selection.cpp</a> - implementa a ordenção por seleção.
 - =====
