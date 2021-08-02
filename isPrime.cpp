@@ -1,6 +1,8 @@
 // isPrime.cpp
-// arataca89@gmail.com
 // 20210320
+// arataca89@gmail.com
+// Aulas de programação em C++
+
 // Implementa a função isPrime() que verifica se um número é primo
 
 #include <iostream>
