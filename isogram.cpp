@@ -1,7 +1,7 @@
 /*
 isogram.cpp
-
 arataca89@gmail.com
+Aulas de programação em C++
 
 CodeWars exercise:
 
