@@ -1,7 +1,7 @@
 /*
 duplicate_encoder.cpp
-
 arataca89@gmail.com
+Aulas de programação em C++
 
 Exercício do CodeWars:
 
