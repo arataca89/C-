@@ -1,7 +1,7 @@
 /*
 duplicateCount.cpp
-
 arataca89@gmail.com
+Aulas particulares de programação em C++
 
 CodeWars exercise:
 
