@@ -1,6 +1,7 @@
 // bubblesort_otimizado.cpp
-// arataca89@gmail.com
 // 20210319
+// arataca89@gmail.com
+// Aulas particulares de programação C++
 
 // Comparando o algoritmo bubble sort original e o otimizado
 
