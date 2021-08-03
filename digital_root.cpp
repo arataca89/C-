@@ -1,7 +1,7 @@
 /*
 digital_root.cpp
-
 arataca89@gmail.com
+Aulas particulares de programação C++
 
 CodeWars exercise:
 
