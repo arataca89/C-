@@ -2,6 +2,7 @@
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/isInside.cpp">isInside.cpp</a> - verifica se um número pertence a um intervalo (se ele está entre outros dois números).
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/sorting/selection.cpp">sorting/selection.cpp</a> - implementa a ordenção por seleção.
 - =====
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/bubblesort.cpp">bubblesort.cpp</a> - implementa a ordenação pelo método da bolha (bubblesort).
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/bubblesort_otimizado.cpp">bubblesort_otimizado.cpp</a> - compara os algoritmos bubblesort tradicional e otimizado.
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/countBits.cpp">countBits.cpp</a> - recebe um inteiro e retorna quantos bits são iguais a um na sua representação binária.
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/digital_root.cpp">digital_root.cpp</a> - calcula a soma dos dígitos de um número.
