@@ -1,6 +1,8 @@
 // FirstReverse.cpp
-// arataca89@gmail.com
 // 20210317
+// arataca89@gmail.com
+// Aulas particulares de programação C++
+
 
 // Coderbyte exercise:
 // Have the function FirstReverse(str) take the str parameter being
@@ -41,7 +43,7 @@ int main(){
 
     cout << "string original        : " << s << endl;
     
-	cout << "apos chamada a strrev(): " << FirstReverse(s) << endl;	
+	cout << "apos chamada a FirstReverse(): " << FirstReverse(s) << endl;	
 
 	return 0;
 }
