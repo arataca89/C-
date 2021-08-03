@@ -1,6 +1,7 @@
 // bubblesort.cpp
-// arataca89@gmail.com
 // 20210318
+// arataca89@gmail.com
+// Aulas particulares de programação C++
 
 // implementação da ordenação pelo método da bolha (bubble sort)
 
