@@ -1,5 +1,5 @@
 # Exercícios de programação C++
-- <a href="https://github.com/arataca89/Cplusplus/blob/main/cin_validandoEntrada.cpp">cin_validandoEntrada</a> - Exemplo de como validar a entrada do usuário. 
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/cin_validandoEntrada.cpp">cin_validandoEntrada</a> - exemplo de como validar a entrada do usuário. 
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/isInside.cpp">isInside.cpp</a> - verifica se um número pertence a um intervalo (se ele está entre outros dois números).
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/sorting/selection.cpp">sorting/selection.cpp</a> - implementa a ordenção por seleção.
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/FirstReverse.cpp">FirstReverse.cpp</a> - recebe uma string e inverte a ordem dos caracteres 
