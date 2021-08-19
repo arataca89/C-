@@ -1,4 +1,5 @@
 # Exercícios de programação C++
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/int_reverse.cpp">int_reverse.cpp</a>- inverte os dígitos de um inteiro.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/array_resize.cpp">array_resize.cpp</a> - demonstra como realocar memória dinamicamente usando <tt>new()</tt>.
 - <a href="https://github.com/arataca89/Cplusplus/tree/main/templates/functions/variadic">output</a> - exemplo de template variadic de função. 
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/cin_validandoEntrada.cpp">cin_validandoEntrada</a> - exemplo de como validar a entrada do usuário. 
