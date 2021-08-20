@@ -24,7 +24,7 @@ push(value)
     Insere value no topo da pilha.
 
 pop()
-    Remove o item do topo da pilha (nao retorna)
+    Remove o item do topo da pilha (nao retorna).
 ********************************************************************/
 #include <iostream>
 using std::cout;
