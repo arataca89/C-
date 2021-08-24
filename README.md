@@ -1,5 +1,6 @@
 # Exercícios de programação C++
-- <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/stlStack.cpp">STL/stlStack.cpp</a> - Exemplo do uso da classe STL stack.
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/uniquePtr.cpp">SRL/uniquePtr.cpp</a> - Demonstra como usar <tt>unique_ptr</tt>.
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/stlStack.cpp">STL/stlStack.cpp</a> - Exemplo do uso da classe STL <tt>stack</tt>.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/int_reverse.cpp">int_reverse.cpp</a>- inverte os dígitos de um inteiro.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/array_resize.cpp">array_resize.cpp</a> - demonstra como realocar memória dinamicamente usando <tt>new()</tt>.
 - <a href="https://github.com/arataca89/Cplusplus/tree/main/templates/functions/variadic">output</a> - exemplo de template variadic de função. 
