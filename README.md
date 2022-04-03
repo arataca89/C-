@@ -1,4 +1,5 @@
 # Exercícios de programação C++
+- <a href="https://github.com/arataca89/Cplusplus/tree/main/estrutura_de_dados/lista_encadeada_generica">Lista encadeada genérica</a>
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/uniquePtr.cpp">STL/uniquePtr.cpp</a> - Demonstra como usar <tt>unique_ptr</tt>.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/stlStack.cpp">STL/stlStack.cpp</a> - Exemplo do uso da classe STL <tt>stack</tt>.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/int_reverse.cpp">int_reverse.cpp</a>- inverte os dígitos de um inteiro.
