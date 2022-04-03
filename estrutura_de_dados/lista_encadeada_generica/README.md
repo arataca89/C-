@@ -1,7 +1,7 @@
 # Lista encadeada genérica
 
 ### Arquivos
-- lista_encadeada.hpp - contém as definições da classe <span style="color: yellow;"><tt>Node</tt></span>, que representa um nó da lista, e da classe <span style="color: yellow;"><tt>Lista</tt></span> que possui as funcionalidades da lista encadeada genérica;
+- lista_encadeada.hpp - contém as definições da classe <span style="color: yellow;">>Node></span>, que representa um nó da lista, e da classe <span style="color: yellow;"><tt>Lista</tt></span> que possui as funcionalidades da lista encadeada genérica;
 - test_node.cpp - testa a classe <span style="color: yellow;"><tt>Node</tt></span>;
 
 ### Testes de criação da lista e inserção no início e no fim
@@ -23,19 +23,19 @@
 
 ![](test_node.PNG)
 
-![](test_lista1.png)
+![](test_lista1.PNG)
 
-![](test_lista2.png)
+![](test_lista2.PNG)
 
-![](test_lista3.png)
+![](test_lista3.PNG)
 
-![](test_lista4.png)
+![](test_lista4.PNG)
 
-![](test_lista5.png)
+![](test_lista5.PNG)
 
-![](test_lista6.png)
+![](test_lista6.PNG)
 
-![](test_lista7.png)
+![](test_lista7.PNG)
 
 --------------------------------
 arataca89@gmail.com
