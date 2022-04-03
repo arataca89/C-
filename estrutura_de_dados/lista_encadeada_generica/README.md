@@ -1,4 +1,4 @@
-## Lista encadeada genérica
+# Lista encadeada genérica
 
 ### Arquivos
 - lista_encadeada.hpp - contém as definições da classe <span style="color: yellow;"><tt>Node</tt></span>, que representa um nó da lista, e da classe <span style="color: yellow;"><tt>Lista</tt></span> que possui as funcionalidades da lista encadeada genérica;
@@ -21,7 +21,7 @@
 
 ### Saida dos arquivos de teste
 
-![](test_node.png)
+![](test_node.PNG)
 
 ![](test_lista1.png)
 
