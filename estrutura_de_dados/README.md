@@ -1,2 +1,2 @@
 
-# Lista encadeada genérica
+# Estruturas de dados
