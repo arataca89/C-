@@ -1,0 +1,1 @@
+# Lsita encadeada genérica
