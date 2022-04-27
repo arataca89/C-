@@ -23,3 +23,4 @@
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/longestWord.cpp">longestWord.cpp</a> - retorna a maior palavra da string.
 - <a href="https://github.com/arataca89/Cplusplus/edit/main/strcat.cpp">strcat.cpp</a> - implementa strcat( ) que concatena duas strings.
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/strrev.cpp">strrev.cpp</a> - implementa a função strrev( ) que recebe uma string e a retorna invertida.
+- <a href="https://github.com/arataca89/Cplusplus/blob/main/read_line_by_line.cpp">read_line_by_line.cpp</a> - demonstra como abrir um arquivo e ler linha por linha.
