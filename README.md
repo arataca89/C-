@@ -1,4 +1,4 @@
-# Exercícios de programação C++
+# Programação C++
 - <a href="https://github.com/arataca89/a89comp">a89comp</a> - Utilitário que auxilia na compilação de projetos.
 - <a href="https://github.com/arataca89/Arithmetic_parser">Arithmetic parser</a> - Avalia expressões aritméticas.
 - <a href="https://github.com/arataca89/Cplusplus/tree/main/estrutura_de_dados/lista_encadeada_generica">Lista encadeada genérica</a>
