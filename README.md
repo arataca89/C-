@@ -1,4 +1,5 @@
 # Programação C++
+- <a href="https://github.com/arataca89/box">Box</a> - A classe Box implementa simples janelas no terminal para inserção de texto.
 - <a href="https://github.com/arataca89/a89comp">a89comp</a> - Utilitário que auxilia na compilação de projetos.
 - <a href="https://github.com/arataca89/Cplusplus/tree/main/estrutura_de_dados/lista_encadeada_generica">Lista encadeada genérica</a>
 - <a href="https://github.com/arataca89/Cplusplus/blob/main/STL/uniquePtr.cpp">STL/uniquePtr.cpp</a> - Demonstra como usar <tt>unique_ptr</tt>.
